@@ -23,11 +23,14 @@ accountUser =
               "status":"processing",
               "bookedDate":"2018-01-05"
               "totalAmount":100,
+              "discount":10,
+              "strike_price":100,
               "guestName": "blabla"
               "phoneNumber": "13254"
               "adult_guests":2,
+              "child_guests":1,
               "check_in":"2018-03-05",
-              "check_out":"2018-03-15"
+              "check_out":"2018-03-15",
               "currency":"",
               "hotel":{
                   "address":"51 Rue Letort",
@@ -37,11 +40,13 @@ accountUser =
                   "image": "https://static-3.roomertravel.com/h:250c,q:89/https://i.travelapi.com/hotels/2000000/1200000/1194600/1194524/1194524_102_z.jpg",
                   "latitude": "48.89658",
                   "location_name": "Paris, France",
-                  "longitude": "2.34373"
-                  "name": "Best Western Hôtel le 18 Paris"
-                  "rating":4
-                  "state":""
-                  "zipcode":"75018"
+                  "longitude": "2.34373",
+                  "name": "Best Western Hôtel le 18 Paris",
+                  "rating":4,
+                  "tripadvisor_rating":4,
+                  "state":"",
+                  "zipcode":"75018",
+                  "price_per_night":100,
               }
             "id":"4||426655||2018-03-05||2018-03-15||2242139||2||0||||NON_REFUNDABLE||1||45051361||||",
             "room_type": "Standard Double Room",
